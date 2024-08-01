@@ -1,1 +1,3 @@
-# Physics_Lab_Experiments_Py
+# Physics_Lab_Experiment
+
+### Experiment 1
